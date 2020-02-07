@@ -8,9 +8,11 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="113dp"
-        android:layout_height="117dp"
+        android:layout_width="192dp"
+        android:layout_height="61dp"
+        android:gravity="center"
         android:text=""
+        android:textSize="15pt"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
